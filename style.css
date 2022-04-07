@@ -1,0 +1,30 @@
+body{
+    background-image:url ('background-image.png') ;
+}
+
+div{
+    width: 400px;
+    border: 15px;
+    padding: 50px;
+    margin: 15px;
+}
+hr {
+border: 1px dotted green;
+
+}
+p{
+    text-align: justify ;
+h1{
+    text-align: left ;
+}
+h2{
+    text-align: left;
+}
+.left{
+    margin-top: 0px;
+    margin-left:2px ;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
